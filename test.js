@@ -1,2 +1,5 @@
-console.log(;a)
+adcadscasdcdcsaconsole.log(;a)
+COCDCDNADCDSA
+CD
 CONSOLADSCADSCSAD
+CDSCDSCDSCS
