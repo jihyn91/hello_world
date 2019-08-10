@@ -1,3 +1,2 @@
-a
-
-cobnsoea:
+console.log(;a)
+CONSOLADSCADSCSAD
