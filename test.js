@@ -1,3 +1,1 @@
-a
-
-cobnsoea:
+console.log(;a)
